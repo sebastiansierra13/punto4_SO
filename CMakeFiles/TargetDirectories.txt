@@ -1,0 +1,3 @@
+/home/jsier33/punto4_SO/CMakeFiles/Punto4SO.dir
+/home/jsier33/punto4_SO/CMakeFiles/edit_cache.dir
+/home/jsier33/punto4_SO/CMakeFiles/rebuild_cache.dir

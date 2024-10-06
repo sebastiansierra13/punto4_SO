@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/Punto4SO.dir/src/execution.cpp.o CMakeFiles/Punto4SO.dir/src/main.cpp.o CMakeFiles/Punto4SO.dir/src/memory.cpp.o CMakeFiles/Punto4SO.dir/src/process.cpp.o CMakeFiles/Punto4SO.dir/src/scheduler.cpp.o -o Punto4SO 
